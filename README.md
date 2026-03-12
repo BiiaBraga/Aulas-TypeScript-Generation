@@ -123,7 +123,6 @@ O resultado da execução será exibido diretamente no terminal.
 
 ---
 
----
 
 ## 👩‍💻 Autora
 
